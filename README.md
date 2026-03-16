@@ -65,4 +65,4 @@ http://127.0.0.1:5000
 - Deploy on cloud platforms
 
 ## Author
-Harshada Vyavahare
+Harshda Vyavahare
